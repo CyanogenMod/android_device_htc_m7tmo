@@ -1,7 +1,5 @@
 $(call inherit-product, device/htc/m7tmo/full_m7tmo.mk)
 
-$(call inherit-product, vendor/cm/config/gsm.mk)
-
 $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
 
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
